@@ -5,8 +5,8 @@ base_url = 'https://cylink.club/'
 
 def checkin():
     '机场签到'
-    email = 'buhu88@163.com'
-    password = 'dage1234'
+    email = ''
+    password = ''
 
     email = email.split('@')
     email = email[0] + '%40' + email[1]
